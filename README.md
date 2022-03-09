@@ -2,7 +2,7 @@
 Exercícios de if...else e when, para praticar o conteúdo aprendido em sala de aula
 
 
-##Lista de exercícios
+## Lista de exercícios
 
 Faça um programa que receba três inteiros e diga qual deles é o maior.
 
